@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/RitchmyR1/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/RitchmyR1/osTicket-Prerequisites-and-Installation)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RitchmyR1/configure-ad)
