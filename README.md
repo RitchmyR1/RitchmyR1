@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/RitchmyR1/osTicket-Prerequisites-and-Installation)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RitchmyR1/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RitchmyR1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 
 <h2>🤳Connect with me:</h2>
